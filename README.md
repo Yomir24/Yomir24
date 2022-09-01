@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yomir24.  
-- 💞️ I’m looking to collaborate on  computer programming for different kind of languages
+- 💞️ I’m looking to collaborate on  computer programming for different kind of languages including facial recognition and hand gestures
 - 📫 How to reach me  Phone-6463925895. Email- awanyr24@gmail.com
 
 <!---
